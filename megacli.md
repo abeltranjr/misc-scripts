@@ -319,6 +319,7 @@ Exit Code: 0x00
 4) Now you can go replace the faulty disk, it might help to use the hdd identify command to locate the disk
 
 [root@raid log]# MegaCli64 -pdlocate -start -physdrv[252:3] -a0
+
 Adapter: 0: Device at EnclId-252 SlotId-3 — PD Locate Start Command was successfully sent to Firmware
 Exit Code: 0x00
 
